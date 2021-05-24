@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-16T14:30:10.306-0300</date>
+  <logger>LUCAS GABRIEL SOARES DE ALMEIDA</logger>
+  <level>FINE</level>
+  <message>File 119110385-LUCAS GABRIEL SOARES DE ALMEIDA.zip was received. It was sent by LUCAS GABRIEL SOARES DE ALMEIDA from IP 192.168.0.80 at 16-09-2020 14*30*10</message>
+</record>

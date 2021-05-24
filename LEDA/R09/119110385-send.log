@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-19T00:45:44.043-0300</date>
+  <logger>LUCAS GABRIEL SOARES DE ALMEIDA</logger>
+  <level>FINE</level>
+  <message>File 119110385-LUCAS GABRIEL SOARES DE ALMEIDA.zip was received. It was sent by LUCAS GABRIEL SOARES DE ALMEIDA from IP 192.168.0.80 at 19-11-2020 00*45*44</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-20T09:45:22.083-0300</date>
+  <logger>LUCAS GABRIEL SOARES DE ALMEIDA</logger>
+  <level>FINE</level>
+  <message>File 119110385-LUCAS GABRIEL SOARES DE ALMEIDA.zip was received. It was sent by LUCAS GABRIEL SOARES DE ALMEIDA from IP 192.168.0.80 at 20-11-2020 09*45*22</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-20T10:02:52.169-0300</date>
+  <logger>LUCAS GABRIEL SOARES DE ALMEIDA</logger>
+  <level>FINE</level>
+  <message>File 119110385-LUCAS GABRIEL SOARES DE ALMEIDA.zip was received. It was sent by LUCAS GABRIEL SOARES DE ALMEIDA from IP 192.168.0.80 at 20-11-2020 10*02*52</message>
+</record>

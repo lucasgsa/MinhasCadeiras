@@ -1,0 +1,13 @@
+League of Legends|[moba, competitivo, habilidades]|[Processador de 3GHz,2GB,Placa de video compativel com Shader versao 2.0b.]|PC|0.0|True|2009
+Dota 2|[moba, competitivo, habilidades]|[Dual core da Intel ou AMD com 2.8 GHz,4GB,nVidia GeForce 8600/9600GT ou ATI/AMD Radeon HD2600/3600]|PC|0.0|True|2013
+Counter-Strike: Global Offensive|[fps, competitivo]|[Intel Core 2 Duo E6600,2GB,256 MB com Pixel Shader 3.0.]|PC|0.0|True|2012
+Fortnite|[battleroyale]|[Core i3-3225 3.3 GHz.,4GB,Intel HD 4000 no PC ou Intel Iris Pro 5200]|PC/CONSOLE/MOBILE|0.0|True|2017
+Terraria|[mundo aberto,aventura]|[Dual core 3.0,4GB,256mb Memoria de video]|PC/MOBILE|19.99|True|2011
+Fifa 21|[esporte,competitivo]|[Windows 10,i3-6100 ou athlon x4 880k,8GB,Randeon HD 7850 ou GTX 660]|[PC/CONSOLE/MOBILE]|199.00|False|2020
+Grand Theft Auto V|[mundo aberto,aventura,historia,acao]|[Windows7,Processador Quad-Core,4GB,1GB memoria de video]|[PC/CONSOLE]|99.99|False|2013
+PlayerUnknown's Battlegrounds|[battleroyale]|[Windows 7,i5 4430 ou FX 6300,8GB,GTX 960 ou R7 370]|[PC/CONSOLE]|75.00|True|2017
+Rocket League|[esporte,competitivo]|[Windows 7,Processador Dual-Core,4GB,GTX 760 ou R7 270X]|[PC/CONSOLE]|0.0|True|2015
+ARK: Survival Evolved|[aventura,acao]|[Windows 7,i5-2400 ou FX-8320,8GB,GTX 670 2GB ou HD 7870]|[PC/CONSOLE]|93.99|True|2015
+Valorant|[fps, habilidades, competitivo]|[Intel i3 4150,4GB,GeForce GT 730]|PC|0.0|True|2020
+Among Us|[sobrevivencia]|[Windows 7,1GB]|[PC/CONSOLE/MOBILE]|10.89|True|2018
+PointBlank|[fps, rpg]|[processador 110x, Windows 10]|PC|20.0|True|2014

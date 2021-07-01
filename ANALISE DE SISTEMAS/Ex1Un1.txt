@@ -1,0 +1,56 @@
+A)Cite algumas especializações do papel 
+do analista de sistema, 
+descreva o propósito e a importância de 
+pelo menos 3 delas nas organizações.
+=========================================
+Resposta:
+Analista comercial, da suporte a equipe no meio comercial, que entende de planejamento estratégico, marketing, ou seja, tudo que envolve a parte de ganhos e gastos do projeto, e trazer os clientes.
+Analista de infraestrutura, é aquele que tem conhecimento técnico para realizar todo o apoio necessário para que o sistema funcione perfeitamente nos servidores, ou seja, é responsável por organizar toda a infraestrutura para garantir um desempenho máximo e seguro.
+Analista de requisitos, é responsável por garantir a boa comunicação entre cliente e programador, que conversa com os dois lados, e garante que tudo especificado esteja sendo cumprido, controlando todo o desenvolvimento de cada parte do sistema de acordo com as necessidades.
+
+=========================================
+
+B)Em que consiste o ciclo de vida de 
+desenvolvimento de sistemas (SDLC) e 
+quais as suas etapas? Os modelos de 
+processo de desenvolvimento podem 
+extinguir alguma  fase do SLDC? Explique.
+=========================================
+Resposta:
+Consiste em um modelo sistemático para o desenvolvimento de um software,
+com fases que garantem a confiabilidade e rápido desenvolvimento.
+Análise de requisitos, planejamento, design, codificação, testes, implantação e por último manutenção.
+
+Sim, projetos reais dificilmente seguem o mesmo fluxo teórico, já que raramente todos os problemas são pensados ainda na fase de planejamento. 
+
+=========================================
+
+
+
+C)Por que os projetos de software falham 
+tão frequentemente?
+=========================================
+Resposta:
+A maioria das falhas são previsíveis e evitáveis, mas a maioria das empresas não se importam em previnir as falhas,
+e mesmo com o risco preferem não fazer mudanças no sistema, seja por economia de dinheiro ou por medo de migrar uma versão de linguagem ou até mesmo de uma linguagem para outra.
+Logo, nem sempre apenas durante o desenvolvimento está o problema, já que muitas vezes falhas só são descobertas anos depois,
+mas está na falta de manutenção e preocupação das empresas com isso.
+
+=========================================
+
+D)Quais os benefícios e desafios 
+envolvidos em processos de 
+desenvolvimento baseados no modelo ágil?
+=========================================
+Resposta:
+Maior rapidez para entrega de alguma parte do projeto,
+podendo priorizar algumas partes.
+Capacidade de resposta a mudanças.
+O funcionamento é mais importante que a documentação em primeiro momento.
+Melhora a comunicação do time de desenvolvimento.
+
+Um dos desafios é prever a entrega do projeto completo,
+conseguindo apenas saber o tempo de duração do Sprint.
+Alguém que consiga ser um bom líder durante todo o processo, e consiga aproveitar toda a equipe.
+
+=========================================
